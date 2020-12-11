@@ -5,3 +5,13 @@ description: Gedanken rund um das Thema Arbeit im Digitalen Wandel
 
 
 permalink: /:title/
+
+
+author:
+  name: Carsten Bleek
+  email: bleek@cross-solution.de
+  url: https://cross-solution.de
+
+paginate: 2
+owner: Carsten Bleek
+year: 2020
