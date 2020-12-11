@@ -5,21 +5,21 @@
   gh_user: cross-solution
   repo: YAWIK
   img: /images/cbleek.jpeg
-  desc: YAWIK
+  desc: Das Personalwesen braucht etwas. Wir starten YAWIK.
 
 - name: Quasar based Cross Solution
   gh_user: cross-solution
   repo: cross-solution.de
   img: /images/cbleek.jpeg
-  desc: CROSS Solution
+  desc: Quasar kann einen Code für viele Umgebungen bauen. Das ist interessant. Das müssen wir testen
 
-- name: Azure Automation Scripts
+- name: Gastrojob24
   gh_user: gastro24
   repo: gastro24
   img: /images/cbleek.jpeg
-  desc: Gastro 24
+  desc: Eine Yawik installation
 
-- name: Face API
+- name: Stellenmarkt.com
   gh_user: stellenmarkt
   repo: stellenmarkt.com
   img: /images/cbleek.jpeg
