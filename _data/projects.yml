@@ -10,7 +10,7 @@
 - name: Quasar based Cross Solution
   gh_user: cross-solution
   repo: cross-solution.de
-  img: https://raw.githubusercontent.com/tzuehlke/jekyll-uno-timeline/master/screenshot-overview.png
+  img: /images/cbleek.jpeg
   desc: CROSS Solution
 
 - name: Azure Automation Scripts
