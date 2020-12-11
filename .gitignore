@@ -1,2 +1,6 @@
 _site/
 .jekyll-cache/
+
+# joe backup files
+*~
+.*~
