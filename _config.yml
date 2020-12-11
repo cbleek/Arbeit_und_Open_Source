@@ -8,14 +8,15 @@ bkimage: '/images/ich2.jpeg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
-author:
-  name: 'Carsten Bleek'
-  email: carsten@bleek.org
-  twitter_username: thomzuehlke
-  facebook_username: Telefonanlage
-  github_username:  cbleek
-  linkedin_username:  cbleek
-  meetup_name: Azure-Meetup-Rostock-MV
+site:
+  author:
+    name: 'Carsten Bleek'
+    email: carsten@bleek.org
+    twitter_username: thomzuehlke
+    facebook_username: Telefonanlage
+    github_username:  cbleek
+    linkedin_username:  cbleek
+    #meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
 destination: _site
