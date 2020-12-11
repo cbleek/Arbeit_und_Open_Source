@@ -15,3 +15,16 @@ author:
 paginate: 2
 owner: Carsten Bleek
 year: 2020
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
