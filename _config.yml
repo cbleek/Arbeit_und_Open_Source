@@ -1,8 +1,8 @@
 # Site settings
 title: Carsten Bleek
 description: 'Business Card Page'
-url: 'https://cbleek.github.io/DigitalChange/'
-baseurl: ''
+url: 'https://cbleek.github.io'
+baseurl: 'DigitalChange/'
 profilepic: '/images/tzuehlke.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
