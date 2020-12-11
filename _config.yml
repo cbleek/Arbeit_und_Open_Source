@@ -4,4 +4,4 @@ title: Arbeit im Digitalen Wandel
 description: Gedanken rund um das Thema Arbeit im Digitalen Wandel
 
 
-permalink: /:year/:month/:day/:title:output_ext
+permalink: /:title/
